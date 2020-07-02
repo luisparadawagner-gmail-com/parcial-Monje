@@ -1,0 +1,6 @@
+[   
+    { "nombre": "maría", "apellido": "rivarola", "edad": 17, "materia": "MongoDB", "anioCursada": "Segundo" },
+    { "nombre": "roberto", "apellido": "carlos", "edad": 37, "materia": "Javascript", "anioCursada": "Primero" },
+    { "nombre": "julio", "apellido": "iglesias", "edad": 59, "materia": "NodeJS", "anioCursada": "Tercero" },
+    { "nombre": "giemena", "apellido": "gutierrez", "edad": 29, "materia": "ExpressJS", "anioCursada": "Tercero" }        
+]

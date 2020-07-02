@@ -16,10 +16,14 @@ import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 import {MatMenuModule} from '@angular/material/menu';
 import {MatTableModule} from '@angular/material/table';
 import {MatIconModule} from '@angular/material/icon';
+import { CargarAlumnoComponent } from './componentes/cargar-alumno/cargar-alumno.component';
+import { ConsultarInscripcionesComponent } from './componentes/consultar-inscripciones/consultar-inscripciones.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    CargarAlumnoComponent,
+    ConsultarInscripcionesComponent
   ],
   imports: [
     BrowserModule,
